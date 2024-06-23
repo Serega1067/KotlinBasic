@@ -42,4 +42,14 @@ fun main() {
     println(ingredientsForSoup)
     dish2.removeFromFavorites()
     println(dish2.inFavorites)
+    println()
+
+    val ingredient1 = Ingredient("картошка", 100, 1)
+    println(ingredient1.name)
+    ingredient1.name = "репчатый лук"
+    println(ingredient1.name)
+    println()
+
+    val ingredient2 = Ingredient("Морковь", 50, 1, true)
+    println(ingredient2.name)
 }

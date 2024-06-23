@@ -5,4 +5,5 @@ Endow an entity with actions.
 
 In this application there will be a list of dishes divided into categories.  
 There will be cooking instructions for the recipe. You can add it to your  
-favorites or send it to someone from your contacts.
+favorites or send it to someone from your contacts.  
+Added work with the primary and secondary constructors.

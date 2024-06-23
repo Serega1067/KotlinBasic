@@ -1,7 +1,7 @@
 package main.kotlin.applicationWithRecipes
 
 class Dish(
-    val id: Int,
+    private val id: Int,
     val name: String,
     var category: String,
     val ingredients: List<String>,
