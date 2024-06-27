@@ -25,3 +25,9 @@ There are methods:
 Ships are divided into types:
 * scout
 * industrial
+
+# Encapsulation and access modifiers.
+* public
+* private
+* protected
+* internal
