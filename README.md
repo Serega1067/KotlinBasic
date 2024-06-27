@@ -26,6 +26,9 @@ Ships are divided into types:
 * scout
 * industrial
 
+# Abstract class and Space Shuttle interface.
+Let`s make an abstract Space Shuttle class and interfaces to it.
+
 # Encapsulation and access modifiers.
 * public
 * private
