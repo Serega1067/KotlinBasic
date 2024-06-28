@@ -34,3 +34,6 @@ Let`s make an abstract Space Shuttle class and interfaces to it.
 * private
 * protected
 * internal
+
+# Setters and Getters.
+Setters and Getters, field, how to customize them.
