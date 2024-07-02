@@ -37,3 +37,26 @@ Let`s make an abstract Space Shuttle class and interfaces to it.
 
 # Setters and Getters.
 Setters and Getters, field, how to customize them.
+
+# Polymorphism.
+Polymorphism is when one interface is used for different types.
+
+Polymorphism is about the fact that we can supply parameters  
+of different types to one condition function.
+
+There are 3 types of polymorphism:
+1. Ad hoc.
+2. Subtyping.
+3. Parametric.
+
+## Ad hoc.
+When one function is defined for different data types.
+
+Several function are prescribed in the class that take different  
+parameters.
+
+When calling this function, the compiler determines which function  
+will work by the number and types of parameters passed.
+
+The disadvantage of this approach is that you need to make many  
+implementations of this function.
