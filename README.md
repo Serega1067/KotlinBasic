@@ -60,3 +60,17 @@ will work by the number and types of parameters passed.
 
 The disadvantage of this approach is that you need to make many  
 implementations of this function.
+
+## Subtyping.
+This is an implementation through the substitution  
+principle of Barbara Liskov.
+
+This is one of the principle of OOP from the abbreviation SOLID.
+
+Function that use the base type should be able to use subtype of the  
+base type without knowing about it.
+
+That is, an object of a narrower type can always be used where  
+an object of a wider type can be used.
+
+It is implemented using inheritance.
