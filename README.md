@@ -74,3 +74,6 @@ That is, an object of a narrower type can always be used where
 an object of a wider type can be used.
 
 It is implemented using inheritance.
+
+# ENUM, TODO() and the Nothing type.
+ENUM enumeration classes.
