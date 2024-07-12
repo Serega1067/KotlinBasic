@@ -77,3 +77,13 @@ It is implemented using inheritance.
 
 # ENUM, TODO() and the Nothing type.
 ENUM enumeration classes.
+
+# Circle class.
+Create a Circle class with two properties: radius of type Double  
+and area of type Double.
+
+The program should:
+1. Read the radius of the circle from the standard input.
+2. Create an instance of the Circle class with a given radius.
+3. Calculate the area of the circle.
+4. Output the radius and area of the circle to the standard output.
