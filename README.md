@@ -87,3 +87,15 @@ The program should:
 2. Create an instance of the Circle class with a given radius.
 3. Calculate the area of the circle.
 4. Output the radius and area of the circle to the standard output.
+
+# Student Class.
+Create a student class with two properties: name of type String  
+and age of type Int. Implement an auxiliary constructor that will  
+take the student's name and age and initialize the corresponding  
+properties.
+
+The program should:
+1. Read the number of students from the standard input.
+2. Read student data (name and age) from the standard input.
+3. Create a list of students.
+4. Display the names and ages of students on the screen.
