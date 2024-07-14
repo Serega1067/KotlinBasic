@@ -8,9 +8,8 @@ class Triangle(
 
     fun isEquilateral(): Boolean {
         return if (
-            this.side1 == this.side2 ||
-            this.side2 == this.side3 ||
-            this.side3 == this.side1
+            this.side1 == this.side2 &&
+            this.side2 == this.side3
         ) {
             true
         } else {
