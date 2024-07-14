@@ -99,3 +99,16 @@ The program should:
 2. Read student data (name and age) from the standard input.
 3. Create a list of students.
 4. Display the names and ages of students on the screen.
+
+# Singleton Logger
+Create a Singleton object named Logger, which will be used  
+for logging messages.
+
+Implement the log (message: String) method, which will output  
+the messages to the console.
+
+The program must:
+1. Read the number of logs from the standard input.
+2. Read logging message from standard input.
+3. Use the Logger object to log messages.
+4. Output each message in the Log: <message> format.
