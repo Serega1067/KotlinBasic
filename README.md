@@ -112,3 +112,17 @@ The program must:
 2. Read logging message from standard input.
 3. Use the Logger object to log messages.
 4. Output each message in the Log: <message> format.
+
+# Triangle Class.
+Create a Triangle class with three properties: side1, side2, and  
+side3 (sides of a triangle) of the Double type. Implement the  
+isEquilateral() method, which will return true if a triangle is  
+equilateral, and false otherwise.
+
+The program should:
+1. Read the number of triangles from the standard input.
+2. Read the side of each triangle from the standard input.
+3. For each triangle, create an instance of the Triangle class  
+and check it with the isEquilateral() method whether the triangle  
+equilateral.
+4. Output the result for each triangle.
