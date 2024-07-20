@@ -126,3 +126,18 @@ The program should:
 and check it with the isEquilateral() method whether the triangle  
 equilateral.
 4. Output the result for each triangle.
+
+# Car Class.
+Create a Car class with two properties: brand (car brand) of the  
+String type and year (year of manufacture) of the Int type.
+
+Implement the printDetails() method, which will output information  
+about the brand and year of manufacture of the car to the console.
+
+The program should:
+1. Read the number of cars from the standard input.
+2. Read the data of each car (brand and year of manufacture) from  
+the standard input.
+3. Create an instance of the Car class for each car and call the  
+printDetails() method to output information about the brand and  
+year of manufacture of the car.
